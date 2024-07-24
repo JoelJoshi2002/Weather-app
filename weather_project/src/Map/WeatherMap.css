@@ -1,0 +1,9 @@
+/* WeatherMap.css */
+
+#map {
+    height: 400px; /* Adjust height as needed */
+    width: 100%;   /* Full width of the container */
+  }
+  
+  /* Add any additional styles for map controls or other elements here */
+  
