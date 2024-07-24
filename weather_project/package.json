@@ -11,7 +11,6 @@
     "leaflet": "^1.9.4",
     "lodash.debounce": "^4.0.8",
     "react": "^18.2.0",
-    "react-autocomplete": "^1.8.1",
     "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.2.1",
