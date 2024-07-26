@@ -8,7 +8,15 @@ The Weather Forecast Application is a React-based web app that displays current 
 **Weather map,Temprature map, cloud map**
 **Weather Throughout the week**
 
-##Output
+## Output
+
+![Main Page](https://github.com/JoelJoshi2002/Weather-app/blob/main/Project%20pic/Screenshot%202024-07-26%20165532.png)
+
+![Live Weather](https://github.com/JoelJoshi2002/Weather-app/blob/main/Project%20pic/Screenshot%202024-07-26%20165632.png)
+
+![Weather Map](https://github.com/JoelJoshi2002/Weather-app/blob/main/Project%20pic/Screenshot%202024-07-26%20165743.png)
+
+![Weekly Weather](https://github.com/JoelJoshi2002/Weather-app/blob/main/Project%20pic/Screenshot%202024-07-26%20165813.png)
 
 
 ## File Structure
