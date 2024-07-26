@@ -3,10 +3,13 @@
 ## Overview
 
 The Weather Forecast Application is a React-based web app that displays current weather conditions, hourly forecasts, and daily forecasts for a given city. It integrates with the OpenWeatherMap API to fetch weather data and presents it on a user-friendly interface. The application also includes a weather map feature using Leaflet to visually represent weather conditions.
-Feature:
-Live Weather
-Weather map,Temprature map, cloud map
-Weather Throughout the week
+**Feature:**
+**Live Weather**
+**Weather map,Temprature map, cloud map**
+**Weather Throughout the week**
+
+##Output
+
 
 ## File Structure
 
